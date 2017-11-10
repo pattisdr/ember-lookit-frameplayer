@@ -3,7 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'ember-lookit-frameplayer',
-    environment: environment,
+    environment: 'development',
     rootURL: '/',
     locationType: 'auto',
     sentry: {
